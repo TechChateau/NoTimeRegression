@@ -1,5 +1,4 @@
-# NoTimeRegression
-# No Time Design Series: Regression
+# NoTimeRegression - No Time Design Series: Regression
 
 ### No time to learn AI design? Start from the middle!
 
