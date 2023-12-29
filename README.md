@@ -15,3 +15,6 @@ First make it work, then begin understanding the "how".
 Keep in mind that the Model Demo is proprietary and will not work with all data forms. It is here to serve as a demo, and through fiddling with it, you may start understanding the strategy and how to implement your own.
 
 Good luck.
+
+### Refrences
+Cortez,Paulo, Cerdeira,A., Almeida,F., Matos,T., and Reis,J.. (2009). Wine Quality. UCI Machine Learning Repository. https://doi.org/10.24432/C56S3T.
