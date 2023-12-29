@@ -6,9 +6,11 @@ This project is created to aid in quick and complex design of Deep Neural Networ
 
 As AI architectures in any coding language could potentially look very intimidating to infer and analyze, here we try to both increase intelligibility, and offer a headstart template for a specific use case. This part focuses on a regression problem using the Wine Quality dataset (Licensed CC0), to showcase a diverse deep convolutional architecture, made intelligible and easy to modify by the use of a Preset Layer Designer function, that helps speed up understanding and architecting your model. Even if you do not know how to configure your parameters, an autopilot measure of collective default values is here to take care of the initial headache.
 
-![Regressor](https://github.com/TechChateau/NoTimeRegression/assets/154630035/101d57f9-709b-4d26-a9a3-e2e155554142)
+![LayerDesigner](https://github.com/TechChateau/NoTimeRegression/assets/154630035/d72f348d-5bfb-4c88-9db6-9fb15139b8bf)
 
 First make it work, then begin understanding the "how".
+
+![Regressor](https://github.com/TechChateau/NoTimeRegression/assets/154630035/101d57f9-709b-4d26-a9a3-e2e155554142)
 
 Keep in mind that the Model Demo is proprietary and will not work with all data forms. It is here to serve as a demo, and through fiddling with it, you may start understanding the strategy and how to implement your own.
 
