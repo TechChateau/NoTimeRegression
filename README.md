@@ -10,7 +10,7 @@ As AI architectures in any coding language could potentially look very intimidat
 
 First make it work, then begin understanding the "how".
 
-![Regressor](https://github.com/TechChateau/NoTimeRegression/assets/154630035/87192387-7c5a-47c9-8b4a-9a907eeb3b4c)
+![Regressor](https://github.com/TechChateau/NoTimeRegression/assets/154630035/90599346-668f-4fe7-b88e-90ed758db31c)
 
 Keep in mind that the Model Demo is proprietary and will not work with all data forms. It is here to serve as a demo, and through fiddling with it, you may start understanding the strategy and how to implement your own.
 
