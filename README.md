@@ -1,6 +1,6 @@
 # NoTimeRegression (No Time Series: Regression)
 
-## No time to learn AI design? Start from the middle!
+### No time to learn AI design? Start from the middle!
 
 This project is created to aid in quick and complex design of Deep Neural Networks, serving as an academic tutorial.
 
