@@ -4,7 +4,7 @@
 
 This project is created to aid in quick and complex design of Deep Neural Networks, serving as an academic tutorial.
 
-As AI architectures in any coding language could potentially look very intimidating to infer and analyze, here we try to both increase intelligibility, and offer a headstart template for an specific use case. This part focuses on a regression problem using the Wine Quality dataset (Licensed CC0), to showcase a diverse deep convolutional architecture, made intelligible and easy to modify by the use of a Preset Layer Designer function, that helps speed up understanding and architecting your model. Even if you do not know how to configure your parameters, an autopilot measure of collective default values is here to take care of the intial headache.
+As AI architectures in any coding language could potentially look very intimidating to infer and analyze, here we try to both increase intelligibility, and offer a headstart template for a specific use case. This part focuses on a regression problem using the Wine Quality dataset (Licensed CC0), to showcase a diverse deep convolutional architecture, made intelligible and easy to modify by the use of a Preset Layer Designer function, that helps speed up understanding and architecting your model. Even if you do not know how to configure your parameters, an autopilot measure of collective default values is here to take care of the inital headache.
 
 First make it work, then begin understanding the "how".
 
